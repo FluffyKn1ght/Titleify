@@ -1,4 +1,4 @@
-🇺🇸 An English version of this README is availabe here: [README.md](https://github.com/FluffyKn1ght/Titleify/blob/main/README.md).
+🇺🇸 An English version of this README is availabe here: https://github.com/FluffyKn1ght/Titleify/blob/main/README.md
 
 # Titleify
 Конвертер видео в Minecraft Java 1.20+ /title. Работает на Python и FFmpeg.
